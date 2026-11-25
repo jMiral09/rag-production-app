@@ -474,5 +474,10 @@ shared `docs_ollama` collection.
 
 ## License
 
-No license file is currently included. Add a `LICENSE` file before redistributing
-the project if you want to grant others explicit reuse rights.
+This project is licensed under the [MIT License](./LICENSE). You may use,
+copy, modify, distribute, sublicense, and sell copies of the software, subject
+to the conditions in the license. The software is provided "as is", without
+warranty.
+
+This license applies to this project's code. Third-party dependencies, models,
+and other assets remain subject to their own licenses and terms.
